@@ -177,6 +177,8 @@ html {
       background-size: cover;
       background-position: center;
       flex: 0 0 100%; }
+      .project-1__right-image:hover {
+        background-image: url(../IMG/quoc-gif.gif); }
     @media only screen and (max-width: 65.625em) {
       .project-1__right {
         grid-row: 1 / 2;
